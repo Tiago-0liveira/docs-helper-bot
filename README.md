@@ -26,7 +26,6 @@ yea idk what to type xD
 **Main Libraries Used**:
 
 - [Discord.js](https://www.npmjs.com/package/discord.js) - A powerful JavaScript library to interact with Discord API
-- [discord-akairo](https://www.typescriptlang.org/) - A powerful and flexible discord.js bot framework.
 
 ## Links
 

@@ -30,14 +30,14 @@ yea idk what to type xD
 
 ## Links
 
-- [Discord](coming soon "Link to the official Discord Server.")
-- [Twitter](coming soon "Link to Twitter.")
-- [Instagram](coming soon "Link to the official instagram page.")
-- [Website](coming soon "Link to the official Website.")
+- [Discord](comingsoon "Link to the official Discord Server.")
+- [Twitter](comingsoon "Link to Twitter.")
+- [Instagram](comingsoon "Link to the official instagram page.")
+- [Website](comingsoon "Link to the official Website.")
 
 ## Dev Team
 - [**Toby (UwUNewt / Tobyhere123)**](https://github.com/DaatUserName "Toby's Github Account")
-- [**Tiagooo] (https://github.com/Tiago-0liveira) 
+- [**Tiagooo**](https://github.com/Tiago-0liveira)
 
 
 ## Contributors

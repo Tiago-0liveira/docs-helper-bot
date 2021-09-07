@@ -39,7 +39,7 @@ abstract class MessageEvent extends Event {
                     }
                     if (clientPermissions?.length) {
                         for (let i = 0; i < clientPermissions.length; i++) {
-                            const hasPermission = message.guild.me.hasPermission(clientPermissions[i]);
+                            const hasPermission = message.guild?.me?.permissions.has(clientPermissions[i]);
                             if (!hasPermission) {
                                 missingPermissions.push(clientPermissions[i]);
                             }

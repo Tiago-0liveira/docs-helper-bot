@@ -1,19 +1,14 @@
 {
-	"name": "docsbot",
-	"version": "1.0.0",
-	"main": "index.js",
-	"license": "MIT",
-	"scripts": {
-		"start": "tsc"
-	},
-	"dependencies": {
-		"@types/common-tags": "^1.8.1",
-		"@types/glob": "^7.1.4",
-		"@types/node": "^16.7.13",
-		"common-tags": "^1.8.0",
-		"discord.js": "^13.1.0",
-		"glob": "^7.1.7",
-		"tslib": "^2.3.1",
-		"typescript": "^4.4.2"
-	}
+  "name": "docsHelper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/common-tags": "^1.8.1",
+    "@types/node": "^16.7.13",
+    "common-tags": "^1.8.0",
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^13.1.0",
+    "path": "^0.12.7"
+  }
 }
